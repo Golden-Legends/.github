@@ -8,9 +8,6 @@ Golden Legends is a video game built with BabylonJS for the Games On Web 2024 co
 ### 🎮 Mini games
 Golden Legends allows you to play multiple olympic games through our mini-games. 
 
-### 👥 Multiplayer
-Ready to play with your friends ? We got you, invite your friends and play together !
-
 ### 🥇 Leaderboards
 You're a tryharder and looking for records ? We got leaderboards for each games ! Play, break records, become a Legend.
 
